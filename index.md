@@ -3,7 +3,7 @@ layout: default
 title: Call for Papers and Participation
 ---
 
-# Call for Papers and Participation
+# Call for Papers and Participation 
 
 Sustainability in LLM-assisted Software Engineering (SILAS)<br>
 ICT4S 2026 — 12 June 2026, Bern, Switzerland<br>
