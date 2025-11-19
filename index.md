@@ -41,11 +41,12 @@ Accepted papers will be published in the ICT4S 2026 Workshops Proceedings (CEUR)
 ## Participation 
 Attendance is open to all ICT4S participants. We particularly encourage individuals interested in sustainable software engineering, AI-assisted development, LLM efficiency, and related topics. You are welcome to join SILAS even if you do not plan to publish; we value constructive dialogue and diverse perspectives.
 
-## Keynote (To be announced)
+## Keynote 
 
-[Keynote Speaker](/speakers.html)
+(To be announced)
+<!-- [Keynote Speaker](/speakers.html) -->
 
-##  Program (To be announced)
+##  Program 
 [The Tentative program](/Program.html)
 
 ## Submission guidelines
