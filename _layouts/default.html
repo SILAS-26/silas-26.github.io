@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Symposium on Sustainable IT Systems (SUITS) - {{ page.title }}</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript">
+        function toggleNext(e){
+          var subElement = e.nextElementSibling;
+          subElement.style.display = subElement.style.display === 'none' ? 'inline' : 'none';
+        }
+    </script>
+  </head>
+  <body>
+
+    <div class="title">Symposium on Sustainable IT Systems (SUITS)</div>
+    <div class="place">September 22 - 25 2025, Copenhagen, Denmark</div>
+    {% include navigation.html %}
+    <div class="logo"><img src="images/SUITS-logo.png" alt="SUITS Logo"/></div>
+    <div class="horizontal-images">
+      <img src="images/glostrupParkHotel.jpg" alt="Park Hotel Glostrup"/>
+      <img src="images/glostrupparkso.jpg" alt="Glostrup Park and Lake"/>
+      <img src="images/coloful-nyhavn.jpg" alt="Channel of Nyhavn"/>
+      <img src="images/reffen.jpg" alt="Reffen Street Food Market"/>
+    </div>
+    <div class="sponsor">Support and Sponsors</div>
+    <div class="sponsor-images">
+      <a href="https://direc.dk" target="_blank"><img src="images/DIREC.png" alt="DIREC"/></a>
+      <a href="https://novonordiskfonden.dk/en/" target="_blank"><img src="images/nnf3.png" alt="Novo Nordisk Foundation"/></a><br>
+      <a href="https://ruc.dk/en" target="_blank"><img src="images/RUC-logo.jpg" alt="Roskilde University"/></a>
+      <a href="https://www.ku.dk/english/" target="_blank"><img src="images/ku.png" alt="University of Copenhagen"/></a>
+      <a href="https://www.sdu.dk" target="_blank"><img src="images/sdu.png" alt="University of Southern Denmark"/></a>
+      <a href="https://www.itu.dk" target="_blank"><img src="images/itu.jpg" alt="IT-University"/></a>
+      <a href="https://www.dtu.dk" target="_blank"><img src="images/dtu.png" alt="Technical University of Denmark"/></a>
+      <a href="https://www.aau.dk" target="_blank"><img src="images/aau.png" alt="Aalborg University"/></a>
+    </div>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      <!-- &copy; to me -->
+    </footer>
+  </body>
+</html>
