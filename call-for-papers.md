@@ -7,7 +7,7 @@ title: Call for Papers and Participation
 
 Sustainability in LLM-assisted Software Engineering (SILAS)<br>
 ICT4S 2026 — 12 June 2026, Bern, Switzerland<br>
-[https://silas-26.github.io/](https://suits-26.github.io/)
+[https://silas-26.github.io/](https://silas-26.github.io/)
 
 
 ## Important dates (AoE)
@@ -28,14 +28,15 @@ LLMs are rapidly becoming part of everyday software engineering workflows. Their
 The second edition of SILAS will be held fully on-site and features a keynote (TBA), paper presentations, and structured roundtable discussions aimed at identifying challenges and opportunities for more sustainable LLM-assisted software engineering.
 
 Topics of interest include, but are not limited to:
-- empirical studies on the environmental or resource impact of LLM-assisted software engineering
-- datasets, benchmarks, or measurement methodologies for evaluating LLM efficiency
-- tools, techniques, and practices for reducing the resource footprint of LLM-assisted tasks across the software engineering lifecycle
-- profiling, analysis, or characterization of LLM behavior in SE contexts
-- efficient and repeatable prompting strategies, including resource-efficient code generation
-- industrial experiences, case studies, or demonstrations
 
-Accepted papers will be published in the ICT4S 2026 Workshops Proceedings (CEUR), see submission guidelines below.
+- empirical studies on the environmental or resource impact of LLM-assisted software engineering;
+- datasets, benchmarks, or measurement methodologies for evaluating LLM efficiency;
+- tools, techniques, and practices for reducing the resource footprint of LLM-assisted tasks across the software engineering lifecycle (e.g., requirements, design, implementation, testing, and maintenance);
+- profiling, analysis, or characterization of LLM behavior in software engineering contexts;
+- efficient and repeatable prompting strategies, including approaches for generating resource-efficient code;
+- industrial experiences, case studies, or demonstrations.
+
+Accepted **research** and **NIER** papers will be published in the ICT4S 2026 Workshops Proceedings (CEUR); see submission guidelines below. Short industrial contributions are intended to enrich discussion at the workshop and will not be part of the formal proceedings.
 
 
 ## Participation 
@@ -47,14 +48,17 @@ Attendance is open to all ICT4S participants. We particularly encourage individu
 
 ## Submission guidelines
 
-Submissions must use the 1-column CEUR template (ODT or Overleaf).
+Submissions for all papers must use the 1-column CEUR template (ODT or Overleaf).
 
-We invite three categories of papers:
-- Research papers (10-15 standard pages) present mature and well-motivated work that advances the understanding of sustainable LLM-assisted software engineering. These submissions will be evaluated for relevance, novelty, soundness, and readability
-- New Ideas and Emerging Results (NIER) papers (5–9 standard pages) present early-stage, promising, or provocative ideas that have the potential to open new research directions in sustainable LLM-assisted software engineering. These submissions may describe novel concepts, under-explored challenges, initial observations, or emerging results that are not yet mature enough for a full research paper. The emphasis is on insight, originality, and the capacity to stimulate discussion. NIER papers will be evaluated for their relevance, novelty, potential impact, and clarity.
--  Industrial application & demonstration papers (5–9 standard pages) present practical experiences, applications, tools, or demonstrations related to sustainable LLM-assisted software engineering. Submissions may describe real-world deployments, lessons learned, performance observations, or applied techniques used in industry or public-sector contexts. These papers should clearly convey the practical relevance and insights gained from implementation or use. Industrial and Demonstration papers will be evaluated for their relevance, practical value, and clarity of presentation.
+We invite two categories of papers for inclusion in the workshop proceedings, and a third category of short industrial contributions to enrich the workshop discussion:
 
-All submissions must be original and peer-reviewed by a program committee of international experts.
+- **Research papers** (10–15 standard pages) present mature and well-motivated work that advances the understanding of sustainable LLM-assisted software engineering. These submissions will be evaluated for relevance, novelty, soundness, and readability.
+
+- **New Ideas and Emerging Results (NIER) papers** (5–9 standard pages) present early-stage, promising, or provocative ideas that have the potential to open new research directions in sustainable LLM-assisted software engineering. These submissions may describe novel concepts, under-explored challenges, initial observations, or emerging results that are not yet mature enough for a full research paper. The emphasis is on insight, originality, and the capacity to stimulate discussion. NIER papers will be evaluated for their relevance, novelty, potential impact, and clarity.
+
+- **Short industrial experience summaries, case studies, and demonstration notes** (up to 2 pages) present practical experiences, applications, tools, or demonstrations related to sustainable LLM-assisted software engineering. Submissions may describe real-world deployments, lessons learned, performance observations, or applied techniques used in industry or public-sector contexts. These contributions will undergo a light review for relevance and clarity and are intended to broaden the conversation and encourage engagement from industry. They will **not** be included in the ICT4S 2026 Workshop Proceedings (CEUR), but may be shared via the workshop website or among participants.
+
+All submissions must be original and will be peer-reviewed by a program committee of international experts appropriate to the submission type.
 
 Submission link: [EasyChair link will be updated]
 
