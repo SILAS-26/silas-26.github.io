@@ -12,8 +12,8 @@ ICT4S 2026 — 12 June 2026, Bern, Switzerland<br>
 
 ## Important dates (AoE)
 
-- Paper submission deadline: 5 April 2026
-- Notification: 26 April 2026 (latest)
+- Paper submission deadline: 19 April 2026
+- Notification: 3 May 2026 (latest)
 - Camera-ready deadline: 17 May 2026
 - Workshop date: 12 June 2026
 
@@ -25,7 +25,7 @@ The SILAS workshop brings together researchers, practitioners, and policymakers 
 
 LLMs are rapidly becoming part of everyday software engineering workflows. Their integration into tasks such as requirements, design, implementation, testing, and maintenance—combined with large CI/CD pipelines—raises important questions about energy use and resource consumption. Understanding and reducing this footprint is increasingly urgent.
 
-The second edition of SILAS will be held fully on-site and features a keynote (TBA), paper presentations, and structured roundtable discussions aimed at identifying challenges and opportunities for more sustainable LLM-assisted software engineering.
+The second edition of SILAS will be held fully on-site and features a keynote of [dr. Kareem Ali](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/karim-ali.html), paper presentations, and structured roundtable discussions aimed at identifying challenges and opportunities for more sustainable LLM-assisted software engineering.
 
 Topics of interest include, but are not limited to:
 
