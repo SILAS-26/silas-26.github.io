@@ -12,8 +12,8 @@ ICT4S 2026 — 12 June 2026, Bern, Switzerland<br>
 
 ## Important dates (AoE)
 
-- Paper submission deadline: 5 April 2026
-- Notification: 26 April 2026 (latest)
+- Paper submission deadline: 19 April 2026
+- Notification: 3 May 2026 (latest)
 - Camera-ready deadline: 17 May 2026
 - Workshop date: 12 June 2026
 
@@ -42,9 +42,8 @@ Accepted papers will be published in the ICT4S 2026 Workshops Proceedings (CEUR)
 Attendance is open to all ICT4S participants. We particularly encourage individuals interested in sustainable software engineering, AI-assisted development, LLM efficiency, and related topics. You are welcome to join SILAS even if you do not plan to publish; we value constructive dialogue and diverse perspectives.
 
 ## Keynote 
+A keynote by [Dr. Kareem Ali](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/karim-ali.html).
 
-(To be announced)
-<!-- [Keynote Speaker](/speakers.html) -->
 
 ##  Program 
 [The Tentative program](/Program.html)
@@ -60,11 +59,11 @@ We invite three categories of papers:
 
 All submissions must be original and peer-reviewed by a program committee of international experts.
 
-Submission link: [EasyChair link will be updated]
+[Submission link](https://easychair.org/cfp/SILAS2026)
 
 ## Post-workshop Community Paper
 
-A central goal of SILAS is to build a scientific foundation for this emerging area. After the workshop, we will collaboratively develop a scientific paper summarizing the main insights, directions, and challenges identified during the event. Authorship will be offered to participants who actively contribute to the writing process after the workshop.
+A central goal of SILAS is to build a scientific foundation for this emerging area. After the workshop, we will collaboratively develop a scientific paper summarizing the main insights, directions, and challenges identified during the event. Authorship will be offered to participants who actively contribute to the writing process after the workshop. Similar to our [SILAS paper of 2025](https://silas-26.github.io/SILAS_2025.pdf).
 
 
 ## Organisation committee
@@ -72,7 +71,6 @@ A central goal of SILAS is to build a scientific foundation for this emerging ar
 ### Organizers
 * Pepijn de Reus, University of Amsterdam
 * Maja H. Kirkeby, Roskilde University
-* Fernando Castor, University of Twente
 * Ana Oprescu, Universiteit van Amsterdam. 
 * João Paulo Fernandes, New York University Abu Dhabi. 
 
