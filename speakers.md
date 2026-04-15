@@ -5,4 +5,4 @@ title: Keynote Speaker
 
 # Keynote Speaker
 
-To be announced
+A keynote by [Dr. Kareem Ali](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/karim-ali.html).
