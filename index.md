@@ -59,7 +59,7 @@ We invite three categories of papers:
 
 All submissions must be original and peer-reviewed by a program committee of international experts.
 
-[Submission link](https://github.com/SILAS-26/silas-26.github.io.git)
+[Submission link](https://easychair.org/account/signin?l=7629933732110830969.1776284734.bbd549d6)
 
 ## Post-workshop Community Paper
 

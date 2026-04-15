@@ -61,7 +61,7 @@ We invite two categories of papers for inclusion in the workshop proceedings, an
 
 All submissions must be original and will be peer-reviewed by a program committee of international experts appropriate to the submission type.
 
-[Submission link](https://github.com/SILAS-26/silas-26.github.io.git)
+[Submission link](https://easychair.org/account/signin?l=7629933732110830969.1776284734.bbd549d6)
 
 ## Post-workshop Community Paper
 
