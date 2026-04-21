@@ -12,9 +12,9 @@ ICT4S 2026 — 12 June 2026, Bern, Switzerland<br>
 
 ## Important dates (AoE)
 
-- Paper submission deadline: 19 April 2026
-- Notification: 3 May 2026 (latest)
-- Camera-ready deadline: 17 May 2026
+- Paper submission deadline: 2 May 2026
+- Notification: 16 May 2026 (latest)
+- Camera-ready deadline: 31 May 2026
 - Workshop date: 12 June 2026
 
 ———————————————————————-
@@ -82,5 +82,5 @@ TBA
 ## Contact
 
 Questions about submissions can be sent to the conference contact email:<br>
-TBA
+silas2026@easychair.org
 
